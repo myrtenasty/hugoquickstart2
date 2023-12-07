@@ -6,8 +6,15 @@
     <description>Recent content on A test website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 06 Dec 2023 13:55:59 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 09:14:04 +0800</lastBuildDate>
     <atom:link href="https://myrtenasty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three JS</title>
+      <link>https://myrtenasty.github.io/posts/three-js/</link>
+      <pubDate>Thu, 07 Dec 2023 09:14:04 +0800</pubDate>
+      <guid>https://myrtenasty.github.io/posts/three-js/</guid>
+      <description> &lt;!DOCTYPE html&gt; Three Hello! My name is Rajat. I love Three.JS. </description>
+    </item>
     <item>
       <title>First Html Post</title>
       <link>https://myrtenasty.github.io/posts/my-first-html/</link>

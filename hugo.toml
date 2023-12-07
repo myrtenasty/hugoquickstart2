@@ -4,4 +4,4 @@ title = 'A test website'
 theme = 'ananke'
 
 [params]
-    custom_css = ["css/styles.css"]
+    custom_css = ["css/styles.css", "css/style.css"]
